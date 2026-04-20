@@ -16,10 +16,10 @@
         <mxCell id="cWJmGkRdStgqPJA7V39m-4" value="渲染进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cWJmGkRdStgqPJA7V39m-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cWJmGkRdStgqPJA7V39m-5" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cWJmGkRdStgqPJA7V39m-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cWJmGkRdStgqPJA7V39m-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
